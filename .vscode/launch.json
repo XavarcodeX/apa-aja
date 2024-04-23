@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/Asus/OneDrive/Pictures/Screenshots/apa aja",
+      "program": "c:/Users/Asus/OneDrive/Pictures/Screenshots/apa aja/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
